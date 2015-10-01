@@ -1,0 +1,9 @@
+language:java
+jdk:openjdk6
+deploy:
+  provider:cloudfoundry 
+  username:hskramesh@gmail.com
+  password:itmyPivotal
+  api:https://api.run.pivotal.io
+  organization:hskramesh
+  space:development
