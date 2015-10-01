@@ -1,5 +1,5 @@
-language:java
-jdk:openjdk6
+language: java
+jdk: openjdk6
 deploy:
   provider:cloudfoundry 
   username:hskramesh@gmail.com
