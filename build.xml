@@ -1,4 +1,4 @@
-<project name="SARAn2VzFleet" default="dist" basedir=".">
+<project name="VzFleet" default="dist" basedir=".">
   <description>
     Build Success 
   </description>
